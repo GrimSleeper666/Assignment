@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FlashcardAssignment</string>
+    <string name="correct_btn">TRUE</string>
+    <string name="Incorrect_btn">FALSE</string>
+    <string name="correct_tst">Correct</string>
+    <string name="Incorrect_tst">Incorrect</string>
+    <string name="next_btn">NEXT</string>
+
+    <string name="correct_btn2">TRUE</string>
+    <string name="Incorrect_btn2">FALSE</string>
+    <string name="correct_tst2">Correct</string>
+    <string name="Incorrect_tst2">Incorrect</string>
+    <string name="create_btn">Confirm</string>
+
+    <string name="add_btn">+</string>
+    <string name="question1">OOP stands for object oriented programming</string>
+    <string name="question2">Methods are types of classes</string>
+    <string name="question3">Python was named after Monty Python Comedy troope</string>
+    <string name="question4">Classes are not needed in Java</string>
+</resources>
